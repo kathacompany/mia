@@ -1,2 +1,2 @@
 # mia
-CMSC 126 roject
+CMSC 126 project
