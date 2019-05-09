@@ -5,5 +5,5 @@ MIA
 @endsection
 
 @section('content')
-    <body style="background-image: url(1.jpg); background-size: cover; background-attachment: fixed;"></body>
+    <body style="background-image: url(homepage.jpg); background-size: cover; background-attachment: fixed;"></body>
 @endsection
